@@ -1,9 +1,8 @@
 # Machine-Learning-Lab-Program-1 :v:
-Implement and demonstratethe FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file. :fire:
-**This program is written without using python packages.** :blush:
+Implement and demonstratethe FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file. :fire: **This program is written without using python packages.** :blush:
 
-#Find-S Algorithm
-##Algorithm:
+# Find-S Algorithm
+## Algorithm:
 Initialize h to the most specific hypothesis in H
 For each positive training instance x
  i. For each attribute constraint a i in h :
