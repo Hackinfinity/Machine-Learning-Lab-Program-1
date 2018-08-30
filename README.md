@@ -14,3 +14,6 @@ For each positive training instance x</br>
  </li>
  <li>Output hypothesis h</li>
  </ol>
+ This program is also available in my Blog [Hack Infinity](https://www.hackinfinity.weebly.com/mllab1.html).
+
+
