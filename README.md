@@ -3,7 +3,7 @@ Implement and demonstratethe FIND-Salgorithm for finding the most specific hypot
 
 # Find-S Algorithm
 ## Algorithm:
-<p>Initialize h to the most specific hypothesis in H</p></br>
+<p>Initialize h to the most specific hypothesis in H</p>
 For each positive training instance x</br>
  <ol>
  <li>i. For each attribute constraint a i in h :
