@@ -3,9 +3,14 @@ Implement and demonstratethe FIND-Salgorithm for finding the most specific hypot
 
 # Find-S Algorithm
 ## Algorithm:
-Initialize h to the most specific hypothesis in H
-For each positive training instance x
- i. For each attribute constraint a i in h :
-     a. If the constraint a i in h is satisfied by x Then do nothing
-     b. Else replace a i in h by the next more general constraint that is satisfied by x
-Output hypothesis h
+<p>Initialize h to the most specific hypothesis in H</p></br>
+For each positive training instance x</br>
+ <ol>
+ <li>i. For each attribute constraint a i in h :
+  <ul>
+   <li>a. If the constraint a i in h is satisfied by x Then do nothing</li>
+   <li>b. Else replace a i in h by the next more general constraint that is satisfied by x</li>
+  </ul>
+ </li>
+ <li>Output hypothesis h</li>
+ </ol>
